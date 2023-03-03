@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "fname": "Raghda",
+        "lname": "Ayman",
+        "age": 23,
+        "city": "Gaza",
+        "degree": "Master's",
+        "avg": 88.16666666666667
+    },
+    {
+        "id": 2,
+        "fname": "Hadeel",
+        "lname": "Ayman",
+        "age": 21,
+        "city": "Gaza",
+        "degree": "Doctorate",
+        "avg": 95.16666666666667
+    },
+    {
+        "id": 3,
+        "fname": "Shahed",
+        "lname": "shady",
+        "age": 24,
+        "city": "Yafa",
+        "degree": "Bachelor's",
+        "avg": 83.16666666666667
+    },
+    {
+        "id": 4,
+        "fname": "Ahmed",
+        "lname": "Ali",
+        "age": 26,
+        "city": "Nablis",
+        "degree": "Doctorate",
+        "avg": 95.16666666666667
+    },
+    {
+        "id": 5,
+        "fname": "Majid",
+        "lname": "Hassan",
+        "age": 26,
+        "city": "hyfa",
+        "degree": "Master's",
+        "avg": 88.33333333333333
+    },
+    {
+        "id": 6,
+        "fname": "Amina",
+        "lname": "Ali",
+        "age": 29,
+        "city": "Nuseirat",
+        "degree": "Doctorate",
+        "avg": 94.16666666666667
+    },
+    {
+        "id": 7,
+        "fname": "Khaled",
+        "lname": "Bakr",
+        "age": 27,
+        "city": "Sheikh Jarrah",
+        "degree": "Bachelor's",
+        "avg": 83
+    },
+    {
+        "id": 9,
+        "fname": "Ali",
+        "lname": "Mahmoud",
+        "age": 25,
+        "city": "Alexandria",
+        "degree": "Bachelor's",
+        "avg": 81.33333333333333
+    },
+    {
+        "id": 11,
+        "fname": "Hassan",
+        "lname": "Amin",
+        "age": 23,
+        "city": "Baghdad",
+        "degree": "Bachelor's",
+        "avg": 83.83333333333333
+    },
+    {
+        "id": 14,
+        "fname": "Lina",
+        "lname": "Mohammed",
+        "age": 26,
+        "city": "Bethlehem",
+        "degree": "Bachelor's",
+        "avg": 85.83333333333333
+    },
+    {
+        "id": 16,
+        "fname": "Yara",
+        "lname": "Nasser",
+        "age": 24,
+        "city": "Ramallah",
+        "degree": "Bachelor's",
+        "avg": 83.16666666666667
+    },
+    {
+        "id": 17,
+        "fname": "Ahmed",
+        "lname": "Khaled",
+        "age": 27,
+        "city": "Ashkelon",
+        "degree": "Bachelor's",
+        "avg": 83.16666666666667
+    },
+    {
+        "id": 18,
+        "fname": "Yasmeen",
+        "lname": "Ibrahim",
+        "age": 24,
+        "city": "hebron",
+        "degree": "Doctorate",
+        "avg": 96.83333333333333
+    },
+    {
+        "id": 19,
+        "fname": "Omar",
+        "lname": "Abdulrahman",
+        "age": 29,
+        "city": "nablis",
+        "degree": "Master's",
+        "avg": 88.33333333333333
+    },
+    {
+        "id": 20,
+        "fname": "Nour",
+        "lname": "Al-Masri",
+        "age": 27,
+        "city": "Beirut",
+        "degree": "Master's",
+        "avg": 89.5
+    }
+]
